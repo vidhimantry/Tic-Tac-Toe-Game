@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    align-content: center;
+    justify-items: center;
+}
+
+h1{
+    padding-bottom: 0.8rem;
+    font-size: 2.75rem;
+    font-family: Copse
+}
+
+#themeBtn{
+    position: fixed;
+    top: 0.5rem;
+    right: 0.5rem;
+    color: white;
+    font-size: 1rem;
+    font-style: oblique ;
+    background-color: #232323;
+    padding: 0.4rem;
+    border-radius: 10%;
+}
+.themeBlue{
+        background-color: #3c9ef9;
+    .box{
+          background-color: #c3e2fe;
+          color: #1070dd;
+        }
+}
+.themePink{
+     background-color: #ea6cca;
+.box{
+      background-color: #fccdf0;
+      color: #ec40c1;
+    }
+}
+.themeGreen{
+    background-color: #1bb73a; 
+.box{
+      background-color: #d9f2a0;
+      color: #069d24;
+    }
+}
+
+.game{
+    height: 85vh;
+    width: 85vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.box{
+    margin: 0.5vh ;
+    height: 25vh;
+    width: 25vh;
+    border: none;
+    border-radius: 10%;
+    font-size: 12vh;
+}
+.buttons {
+    margin-top: 1.5rem;
+    color: white;
+    background-color: #1f0e3b;
+    padding: 0.8rem;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 1.5rem;
+    border: none;
+    border-radius: 15%;
+}
+.message {
+    color: #010006;
+    font-size: 2rem;
+    font-style: italic;
+    padding-bottom: 0.8rem;
+  }
+  
+.hide {
+    display: none;
+  }
