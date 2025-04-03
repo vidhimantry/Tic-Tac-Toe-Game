@@ -7,7 +7,7 @@
 ## 🚀 Features
 
 ✅ **Classic Tic-Tac-Toe Gameplay** – Play the traditional Xs and Os game.  
-🎨 **Theme Switcher** – Customize the look with different themes!  
+🎨 **Theme Switcher** – Customize the look with 3 different colour themes!  
 🔄 **Reset Game** – Start fresh anytime without restarting the app.  
 🎲 **New Game Option** – Play multiple rounds without closing the game.  
 💻 **Smooth User Interface** – Easy to use and responsive design.  
@@ -28,7 +28,7 @@
 
 ## 🖥️ Installation & Running  
 
-1️⃣ **Clone the repository**  
+**Clone the repository**  
 ```sh
 git clone https://github.com/vidhimantry/tic-tac-toe.git
 cd tic-tac-toe
