@@ -10,8 +10,7 @@
 🎨 **Theme Switcher** – Customize the look with 3 different colour themes!  
 🔄 **Reset Game** – Start fresh anytime without restarting the app.  
 🎲 **New Game Option** – Play multiple rounds without closing the game.  
-💻 **Smooth User Interface** – Easy to use and responsive design.  
-🛠️ **Built with C++ (or your tech stack)** – Optimized for performance.  
+💻 **Smooth User Interface** – Easy to use and responsive design.    
 
 ---
 
@@ -32,3 +31,8 @@
 ```sh
 git clone https://github.com/vidhimantry/tic-tac-toe.git
 cd tic-tac-toe
+```
+**Open the game**
+```sh
+Simply open the index.html file in any preferred browser:
+```
