@@ -27,12 +27,11 @@
 
 ## 🖥️ Installation & Running  
 
-**Clone the repository**  
+**1. Clone the repository**  
 ```sh
 git clone https://github.com/vidhimantry/tic-tac-toe.git
 cd tic-tac-toe
 ```
-**Open the game**
-```sh
-Simply open the index.html file in any preferred browser:
-```
+**2. Open the game** <br>
+Simply open the index.html file in any preferred browser.
+
