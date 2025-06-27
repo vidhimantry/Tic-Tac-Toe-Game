@@ -80,3 +80,57 @@ h1{
 .hide {
     display: none;
   }
+
+/* Responsive styles for mobile devices */
+@media (max-width: 600px) {
+  h1 {
+    font-size: 2rem;
+    padding-bottom: 2.2rem; 
+  }
+  .game {
+    margin-top: 1.2rem;
+    width: 98vw;
+    height: 98vw;
+    min-width: 0;
+    min-height: 0;
+    max-width: 100vw;
+    max-height: 100vw;
+  }
+  .box {
+    width: 30vw;
+    height: 30vw;
+    font-size: 10vw;
+    margin: 1vw;
+    border-radius: 12%;
+  }
+  .reset-button {
+    font-size: 1.1rem;
+    padding: 0.6rem;
+    margin-top: 1rem;
+  }
+  .message {
+    font-size: 1.2rem;
+    padding-bottom: 0.5rem;
+  }
+  #themeBtn {
+    position: absolute;
+    right: 1.2rem;
+    top: 1.7rem;
+    left: unset;
+    margin: 0;
+    width: max-content;
+    z-index: 10;
+    transform: none;
+  }
+}
+
+@media (max-width: 400px) {
+  .box {
+    width: 28vw;
+    height: 28vw;
+    font-size: 8vw;
+  }
+  h1 {
+    font-size: 1.2rem;
+  }
+}
